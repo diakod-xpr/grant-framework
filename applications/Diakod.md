@@ -10,7 +10,7 @@
 - **Level:** Company
 - **Is Project Open-Source:** Mixed
 - **Project has a token:** Yes
-- **Github Repo:** [will be migrated later](https://github.com/<your_org>/<project_repo>)
+- **Github Repo:** [Grant directory](https://github.com/diakod-xpr/grant-directory)
 
 ### Contact Information
 
@@ -36,7 +36,7 @@
 
 ### Team
 
-> List the members of your team, including their roles and responsibilities. Include links to their LinkedIn profiles, Github repos, and any other relevant information.
+> [Sergey Zagor](https://www.linkedin.com/in/sergeyzagor/), Founder and the [SAIFAS](https://www.linkedin.com/company/saifas) Blockchain Team.
 
 ### Roadmap
 
@@ -73,7 +73,13 @@
 ### Future Plans
 
 > How do you intend to enhance, promote and support your project in the future?
+> 
 
 ### Additional Information
 
 > Include work you have already done on XPR Network, are there any other teams or people that have contributed to your project financially, any previous grants you have applied for.
+>
+Socials:
+- [Telegram](https://t.me/Dia_kod)
+- [Discord](https://discord.com/invite/xzjr5s5d)
+- [X (Twitter)](https://x.com/Diak0d)
