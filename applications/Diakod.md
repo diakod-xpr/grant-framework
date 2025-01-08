@@ -4,23 +4,29 @@
 >
 > Fill out the following information about your team and project
 
-- **Project Name:** Name of your project (e.g. Atomic Assets)
-- **Team Name:** Legal name of your team (e.g. PinkNetwork, Inc)
-- **Payment Address:** XPR Network account
-- **Level:** Individual, Small Team, Company
-- **Is Project Open-Source:** Yes/No
-- **Project has a token:** Yes/No
-- **Github Repo:** github.com/<your_org>/<project_repo>
+- **Project Name:** Diakod
+- **Team Name:** SAIFAS LLC | US, Florida
+- **Payment Address:** [diakod](https://explorer.xprnetwork.org/account/diakod)
+- **Level:** Company
+- **Is Project Open-Source:** Mixed
+- **Project has a token:** Yes
+- **Github Repo:** [will be migrated later](https://github.com/<your_org>/<project_repo>)
 
 ### Contact Information
 
-- **Contact Name:** Full name of contact person
-- **Contact Email:** example@example.com
-- **Website:** https://example.com
+- **Contact Name:** Sergey Zagor
+- **Contact Email:** xpr@diakod.com
+- **Website:** [diakod.com](https://diakod.com)
 
 ### Project Details
 
-> Describe your project in detail, include any screenshots or designs. What problem does it solve? What is the current state of the project? 
+> [Diakod](https://diakod.com) is a [Web3](https://en.wikipedia.org/wiki/Web3) SaaS platform
+>
+> for creating diagrams from plain text
+>
+> to realize ["Architecture as Code"](https://www.google.com/search?q=%22Architecture+as+Code%22) practice
+>
+> with [“Architectural decision records”](https://www.google.com/search?q=Architectural+decision+records) support and visualization. 
 
 ### Ecosystem Fit
 
